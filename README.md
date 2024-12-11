@@ -1,3 +1,3 @@
 # discord-bot
-Hey there! Here is my repo/code for my Discord Bot!
-Hope you like it :)
+<p>Hey there! Here is my repo/code for my Discord Bot!</p>
+<p>Hope you like it :) </p>
